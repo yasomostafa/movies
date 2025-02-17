@@ -1,23 +1,23 @@
 import logo from './logo.svg';
 import './App.css';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import MovieList from './components/MovieList';
+import AddMovie from './components/AddMovie';
+import FetchPosts from './components/FetchPosts';
+import FetchOnClick from './components/FetchOnClick';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/list" element={<MovieList />} />
+           <Route path="/add" element={<AddMovie />} /> 
+           <Route path="/post" element={<FetchPosts />} />
+           <Route path="/click" element={<FetchOnClick/>} />
+        </Routes>
+      </BrowserRouter>
     </div>
   );
 }
