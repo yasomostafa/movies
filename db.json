@@ -1,0 +1,64 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception",
+      "year": 2010,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjExMjkwNTQ0Nl5BMl5BanBnXkFtZTcwNTY0OTk1Mw@@._V1_.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Interstellar",
+      "year": 2014,
+      "imageUrl": "https://th.bing.com/th/id/OIP.GhxezFj0tuXqUELM0e0yMwHaLH?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "2c22",
+      "title": "Moana",
+      "year": 2024,
+      "imageUrl": "https://th.bing.com/th/id/R.2ad0bacd8d324f611de8476c0c9ded6d?rik=Y3ytatScVTVdWQ&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "12d2",
+      "title": "Spiderman",
+      "year": 2009,
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png"
+    },
+    {
+      "id": "920e",
+      "title": "the maze runner",
+      "year": "2011",
+      "imageUrl": "https://th.bing.com/th/id/R.2f9dcd6edbc54e9159ab44896df7bb58?rik=p5V3k24%2ftOXz3g&riu=http%3a%2f%2fdata.1freewallpapers.com%2fdownload%2fthe-maze-runner.jpg&ehk=30wacsEIyiniYe4AsumeQjie%2bYePqYxgJU5Tb8keJfc%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "79eb",
+      "title": "hunger games",
+      "year": "2012",
+      "imageUrl": "https://th.bing.com/th/id/OIP.Wu6qYzHg1p1ftv_tmleUAQHaLQ?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "530e",
+      "title": "little women",
+      "year": "2018",
+      "imageUrl": "https://th.bing.com/th/id/OIP.-AdkPgW0VCr9XXJiUPn2AwHaLH?w=133&h=200&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },
+    {
+      "id": "0af1",
+      "title": "the fast and the furious",
+      "year": "2009",
+      "imageUrl": "https://3.bp.blogspot.com/_XRN97bhAado/TTF_zlF9U-I/AAAAAAAAAWs/VmPuO9xzXpE/s1600/fast-furiousdf-original.jpg"
+    },
+    {
+      "id": "ca2f",
+      "title": "the fast and the furious 5",
+      "year": "2011",
+      "imageUrl": "https://play-lh.googleusercontent.com/g2Z-VVfvI6WP2s-v1mKYvC40R0q6O9ovah6Prcbj1uBPGTC3PQ3d_6hmYRJICmTUj3ug0dtLrSjRmYO1HYs"
+    },
+    {
+      "id": "2c16",
+      "title": "Top gun",
+      "year": "2022",
+      "imageUrl": "https://th.bing.com/th/id/OIP.deO1VkuzXDkSK22UBeofbgHaHa?rs=1&pid=ImgDetMain"
+    }
+  ]
+}
